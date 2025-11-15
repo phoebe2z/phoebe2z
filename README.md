@@ -3,7 +3,7 @@
 
 - 🔭 Study at **University Malaya** from 2023 to 2027
 
-- 🌱 Exchamge at **Sapienza Universita di Roma** from 2025 to 2026
+- 🌱 Exchange at **Sapienza Universita di Roma** from 2025 to 2026
 
 - 💬 Ask me about **everything I know**
 
