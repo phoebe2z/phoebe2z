@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phoebe</h1>
-<h3 align="center">Software Engineering year2</h3>
+<h3 align="center">Software Engineering year3</h3>
 
 - 🔭 I’m currently studying at **University Malaya**
 
