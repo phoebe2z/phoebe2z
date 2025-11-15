@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phoebe</h1>
 <h3 align="center">Software Engineering year3</h3>
 
-- 🔭 I’m currently studying at **University Malaya**
+- 🔭 Study at **University Malaya** from 2023 to 2027
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 Exchamge at **Sapienza Universita di Roma** from 2025 to 2026
 
 - 💬 Ask me about **everything I know**
 
